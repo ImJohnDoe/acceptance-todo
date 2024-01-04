@@ -1,5 +1,9 @@
 # @loopback/example-todo-list
 
+## Status
+
+I dont even lnow what this project is. i think its safe to delete.
+
 This is an extended tutorial that builds on top of `@loopback/example-todo`.
 
 ## Overview
